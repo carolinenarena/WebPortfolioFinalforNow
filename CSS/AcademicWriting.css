@@ -1,0 +1,95 @@
+h5{
+    min-height:15px;
+    max-height:30px;}
+  h5{
+    text-align:center;}
+  h5{
+    padding-top: 1px;}
+  li{
+    display:inline;
+    margin-right:10px;}
+  li.first{
+    visibility:hidden;}
+  li.second{
+    visibility:hidden;}
+  li.third{
+    visibility:hidden;}
+  li.fourth{
+      visibility:hidden;}
+  li.fifth{
+        visibility:hidden;}
+  li.sixth{
+        visibility:hidden;}
+  h5{
+      font-family:"Times New Roman",serif;
+      font-size:17px;}
+  h5{
+    color:black;}
+  h5{
+    display:inline;
+    text-align:center;}
+  h5#name{
+    font-size:50px;
+    display: inline;}
+
+h1{
+  color:black;}
+h1{
+  text-align:center;}
+h1{
+  font-family:"Times New Roman",serif;
+  font-size:40px;}
+h1{
+  padding:75px;}
+.heading{
+        max-width: 1000px;
+        float: none;
+        margin:auto;
+        background-color: #EBEBEB;
+        border-radius:10px;}
+.navigation{
+max-width: 1000px;
+float: none;
+margin:auto;
+border-radius:10px;
+background-image: url("images/cherry2.jpg");
+background-repeat: no-repeat;
+background-attachment: fixed;}
+.main{
+    max-width:1000px;
+    float:none;
+    margin:auto;
+    border-radius:10px;
+    background-color: #EBEBEB;
+    text-align:center}
+  h2{
+    padding-top: 10px;}
+  h3{
+    font-family:"Times New Roman",serif;
+    font-size:20px
+
+  }
+  .column-wrapper{
+    width: 1000px;
+    margin:auto;
+    display:flex;
+    justify-content: center;}
+  .column1of2{
+    max-width:40%;
+    float:left;
+    margin:auto;
+    border-radius:10px;
+    background-color: #EBEBEB;
+    padding:40px;
+    max-height: 1000px;
+    padding-bottom: 110px;}
+  .column2of2{
+      max-width:40%;
+      float:right;
+      margin:auto;
+      border-radius:10px;
+      background-color: #EBEBEB;
+      padding:40px;}
+      #column_container{
+        width:1000px;
+        margin: 0 auto;}

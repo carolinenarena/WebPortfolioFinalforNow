@@ -1,0 +1,93 @@
+h5{
+    min-height:15px;
+    max-height:30px;}
+  h5{
+    text-align:center;}
+  h5{
+    padding-top: 1px;}
+  li{
+    display:inline;
+    margin-right:10px;}
+  li.first{
+    visibility:hidden;}
+  li.second{
+    visibility:hidden;}
+  li.third{
+    visibility:hidden;}
+  li.fourth{
+      visibility:hidden;}
+  li.fifth{
+        visibility:hidden;}
+  li.sixth{
+        visibility:hidden;}
+  h5{
+      font-family:"Times New Roman",serif;
+      font-size:17px;}
+  h5{
+    color:black;}
+  h5{
+    display:inline;
+    text-align:center;}
+  h5#name{
+    font-size:50px;
+    display: inline;}
+  h1{
+    color:black;}
+  h1{
+    text-align:center;}
+  h1{
+    font-family:"Times New Roman",serif;
+    font-size:35px;}
+  h1{
+    padding:75px;}
+    .heading{
+            max-width: 1000px;
+            float: none;
+            margin:auto;
+            background-color: #EBEBEB;
+            border-radius:10px;}
+    .navigation{
+    max-width: 1000px;
+    float: none;
+    margin:auto;
+    border-radius:10px;
+    background-image: url("images/cherry2.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;}
+    .main{
+        max-width:1000px;
+        float:none;
+        margin:auto;
+        border-radius:10px;
+        background-color: #EBEBEB;
+        text-align:center;}
+      h2{
+        padding-top: 10px;}
+      .resume{
+          max-width:1000px;
+          float:none;
+          margin:auto;
+          border-radius:10px;
+          background-color: #EBEBEB;
+          text-align:left;
+          padding-left: 10px;
+          padding-bottom: 100px;
+          padding-top: 10px;}
+.main2{
+              max-width:1000px;
+              float:none;
+              margin:auto;
+              border-radius:10px;
+              background-color: #EBEBEB;
+              text-align:center;
+              padding-bottom: 20px;}
+.log{
+    max-width:1000px;
+    float:none;
+    margin:auto;
+    border-radius:10px;
+    background-color: #EBEBEB;
+    text-align:left;
+    padding-left: 10px;
+    padding-bottom: 50px;
+    padding-top: 10px;}

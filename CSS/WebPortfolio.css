@@ -1,0 +1,96 @@
+body{
+  background-color:#blue;}
+h2{
+  min-height:300px;
+  max-height:600px;}
+  h2{
+    color:black;}
+  h2{
+    text-align:left;}
+  h2{
+    font-family:"Times New Roman",serif;
+    font-size:35px;}
+  h2{
+    padding:200px;}
+  h2.example{
+    margin:50px;}
+ .main{
+    background-image: url("images/cherry2.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;}
+
+h1{
+  min-height:15px;
+  max-height:30px;}
+h1{
+  text-align:center;}
+h1{
+  padding-top: 1px;}
+li{
+  display:inline;
+  margin-right:10px;}
+li.first{
+  visibility:hidden;}
+li.second{
+  visibility:hidden;}
+li.third{
+  visibility:hidden;}
+li.fourth{
+    visibility:hidden;}
+h1{
+    font-family:"Times New Roman",serif;
+    font-size:17px;}
+h1{
+  color:black;}
+h1{
+  display:inline;
+  text-align:center;}
+h1#name{
+  font-size:50px;
+  display: inline;}
+.navigation{
+  max-width: 1000px;
+  float: none;
+  margin:auto;
+  background-color: #EBEBEB;
+  border-radius:10px;}
+.main{
+  max-width:1000px;
+  float:none;
+  margin:auto;
+  border-radius:20px;}
+.footer{
+  max-width:1000px;
+  float:none;
+  margin:auto;
+  border-radius:10px;
+  background-color:#EBEBEB;}
+h3{
+  padding-top:15px;
+  padding-left:10px;}
+p{
+  padding-top: 25px;
+  text-align: center;
+  padding-bottom: 25px;}
+  .column-wrapper{
+    width: 1000px;
+    margin:auto;
+    display:flex;
+    justify-content: center;}
+  .column1of2{
+    max-width:40%;
+    float:left;
+    margin:auto;
+    border-radius:10px;
+    background-color: #EBEBEB;
+    padding:57px;}
+  .column2of2{
+      max-width:40%;
+      float:right;
+      margin:auto;
+      border-radius:10px;
+      background-color: #EBEBEB;
+      padding:57px;}
+#column_container{
+  width:850px;
+  margin: 0 auto;}
